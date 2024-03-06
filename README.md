@@ -8,6 +8,14 @@
 
 <em><b>I like programming, and i like listen to music while make code</b> <img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="60"></em>
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=FerMedina&show_icons=true&title_color=7539BE&icon_color=8D33FF&text_color=9f9f9f&bg_color=151515)](https://github.com/Blackhand14)
+### Tech & Tools Preference
+
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 
